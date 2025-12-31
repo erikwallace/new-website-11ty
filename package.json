@@ -1,0 +1,21 @@
+{
+  "name": "erikwallace.com",
+  "version": "1.0.0",
+  "description": "Erik Wallace's personal website built with Eleventy",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": ["personal-website", "blog", "eleventy", "static-site"],
+  "author": "Erik Wallace",
+  "license": "ISC",
+  "homepage": "https://github.com/erikwallace/personal-website/blob/main/README.md",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikwallace/personal-website.git"
+  }
+}

@@ -1,0 +1,16 @@
+{% include 'head.njk' %}
+<body>
+	<div class="page-layout">
+		{% include 'header.njk' %}
+		<main id="main-content" class="page-main">
+            <article class="section-padding">
+				<div class="wrapper flow">
+					{{ content | safe }}
+				</div>
+            </article>
+			{% include 'footer.njk' %}
+        </main>
+    </div>
+    <script async src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

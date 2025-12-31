@@ -1,0 +1,232 @@
+[
+  {
+    "title": "We Ride Upon Sticks",
+    "author": "Quan Berry",
+    "rating": 5,
+    "cover": "/assets/img/covers/we-ride-upon-sticks.jpg"
+  },
+  {
+    "title": "Small Things Like These",
+    "author": "Claire Keegan",
+    "rating": 5,
+    "cover": "/assets/img/covers/small-things-like-these.jpg"
+  },
+  {
+    "title": "James",
+    "author": "Percival Everett",
+    "rating": 5,
+    "cover": "/assets/img/covers/james.jpg"
+  },
+  {
+    "title": "Carl's Doomsday Scenario",
+    "author": "Matt Dinniman",
+    "rating": 5,
+    "cover": "/assets/img/covers/carls-doomsday-scenario.jpg"
+  },
+  {
+    "title": "The Unseen World",
+    "author": "Liz Moore",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-unseen-world.jpg"
+  },
+  {
+    "title": "All the Colors of the Dark",
+    "author": "Chris Whitaker",
+    "rating": 5,
+    "cover": "/assets/img/covers/all-the-colors-of-the-dark.jpg"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-lies-of-locke-lamora.jpg"
+  },
+  {
+    "title": "Slow Horses",
+    "author": "Mick Herron",
+    "rating": 5,
+    "cover": "/assets/img/covers/slow-horses.jpg"
+  },
+  {
+    "title": "The Hike",
+    "author": "Drew Magary",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-hike.jpg"
+  },
+  {
+    "title": "The Midnight Feast",
+    "author": "Lucy Foley",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-midnight-feast.jpg"
+  },
+  {
+    "title": "Intermezzo",
+    "author": "Sally Rooney",
+    "rating": 4.5
+  },
+  {
+    "title": "Bel Canto",
+    "author": "Ann Patchett",
+    "rating": 4.5
+  },
+  {
+    "title": "Four Thousand Weeks",
+    "author": "Oliver Burkeman",
+    "rating": 4.5
+  },
+  {
+    "title": "The Gate of the Feral Gods",
+    "author": "Matt Dinniman",
+    "rating": 4.5
+  },
+  {
+    "title": "The Impossible Fortune",
+    "author": "Richard Osman",
+    "rating": 4.5
+  },
+  {
+    "title": "The Impossible First",
+    "author": "Colin O'Brady",
+    "rating": 4
+  },
+  {
+    "title": "Ex Libris",
+    "author": "Martin Hopkinson",
+    "rating": 4
+  },
+  {
+    "title": "The Dungeon Anarchist's Cookbook",
+    "author": "Matt Dinniman",
+    "rating": 4
+  },
+  {
+    "title": "The Zig Zag Girl",
+    "author": "Elly Griffiths",
+    "rating": 4
+  },
+  {
+    "title": "A Highland Christmas",
+    "author": "M.C. Beaton",
+    "rating": 4
+  },
+  {
+    "title": "Friend of the Devil: A Reckless Book",
+    "author": "Ed Brubaker",
+    "rating": 4
+  },
+  {
+    "title": "The Butcher's Masquerade",
+    "author": "Matt Dinniman",
+    "rating": 4
+  },
+  {
+    "title": "A Terrible Country",
+    "author": "Keith Gessen",
+    "rating": 4
+  },
+  {
+    "title": "Witchcraft for Wayward Girls",
+    "author": "Grady Hendrix",
+    "rating": 4
+  },
+  {
+    "title": "Warcross",
+    "author": "Marie Lu",
+    "rating": 4
+  },
+  {
+    "title": "When We Were Real",
+    "author": "Daryl Gregory",
+    "rating": 4
+  },
+  {
+    "title": "We Were Dreamers",
+    "author": "Simu Liu",
+    "rating": 4
+  },
+  {
+    "title": "Star Wars: Maul: Lockdown",
+    "author": "Joe Schreiber",
+    "rating": 4
+  },
+  {
+    "title": "Bury Our Bones in the Midnight Soil",
+    "author": "V.E. Schwab",
+    "rating": 4
+  },
+  {
+    "title": "The Day That Never Comes",
+    "author": "Caimh McDonnell",
+    "rating": 3.5
+  },
+  {
+    "title": "Batman: White Knight Presents: Harley Quinn",
+    "author": "Katana Collins",
+    "rating": 3.5
+  },
+  {
+    "title": "Onyx Storm",
+    "author": "Rebecca Yarros",
+    "rating": 3.5
+  },
+  {
+    "title": "Beartooth",
+    "author": "Callan Wink",
+    "rating": 3.5
+  },
+  {
+    "title": "The Spy Coast",
+    "author": "Tess Gerritsen",
+    "rating": 3.5
+  },
+  {
+    "title": "Redshirts",
+    "author": "John Scalzi",
+    "rating": 3.5
+  },
+  {
+    "title": "The God of the Woods",
+    "author": "Liz Moore",
+    "rating": 3.5
+  },
+  {
+    "title": "Star Wars Padawan",
+    "author": "Kiersten White",
+    "rating": 3.5
+  },
+  {
+    "title": "The Postman Always Rings Twice",
+    "author": "James M. Cain",
+    "rating": 3
+  },
+  {
+    "title": "Spells for Forgetting",
+    "author": "Adrienne Young",
+    "rating": 3
+  },
+  {
+    "title": "Don't Turn Out the Lights",
+    "author": "Jonathan Mayberry",
+    "rating": 3
+  },
+  {
+    "title": "King of Spies",
+    "author": "Mark Millar",
+    "rating": 2.5
+  },
+  {
+    "title": "With a Vengeance",
+    "author": "Riley Sager",
+    "rating": 2.5
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "rating": 2.5
+  },
+  {
+    "title": "Meddling Kids",
+    "author": "Edgar Cantero",
+    "rating": 2
+  }
+]
