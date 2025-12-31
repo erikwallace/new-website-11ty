@@ -1,0 +1,45 @@
+---
+layout: 'base.njk'
+---
+
+<article class="main-article">
+	<div class="container container--narrow flow">
+  
+    	<h1 class="article-title">
+			{{ title }}
+		</h1>
+    	<figure class="main-article__figure">
+      		<img src="{{ image }}" alt="{{ imageAlt }}">
+      		<figcaption>
+				{{ imageAlt }}
+			</figcaption>
+    	</figure>
+
+		<ul class="post-metadata">
+			{%- for tag in tags  %}
+				<li>
+					<a href="/blog/tag/{{tag | slugify }}">{{ tag }}</a>
+				</li>
+			{%- endfor %}
+		</ul>
+
+		{{ content | safe }}
+
+		{%- if collections.posts %}
+			{%- set previousPost = collections.posts | getPreviousCollectionItem %}
+			{%- set nextPost = collections.posts | getNextCollectionItem %}
+			{%- if nextPost or previousPost %}
+				<ul class="links-nextprev">
+					{%- if previousPost %}
+						<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>
+					{% endif %}
+					{%- if nextPost %}
+						<li class="links-nextprev-next">Next →<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>
+					{% endif %}
+				</ul>
+			{%- endif %}
+		{%- endif %}
+
+	</div>
+
+</article>
