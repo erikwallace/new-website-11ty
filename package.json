@@ -5,14 +5,23 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "images": "gulp images"
   },
-  "keywords": ["personal-website", "blog", "eleventy", "static-site"],
+  "keywords": [
+    "personal-website",
+    "blog",
+    "eleventy",
+    "static-site"
+  ],
   "author": "Erik Wallace",
   "license": "ISC",
   "homepage": "https://github.com/erikwallace/personal-website/blob/main/README.md",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "gulp": "^5.0.1",
+    "sharp": "^0.34.5",
+    "through2": "^4.0.2"
   },
   "repository": {
     "type": "git",

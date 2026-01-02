@@ -1,0 +1,261 @@
+[
+  {
+    "title": "We Solve Murders",
+    "author": "Richard Osman",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/we-solve-murders.webp"
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "author": "Shelby Van Pelt",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/remarkably-bright-creatures.webp"
+  },
+  {
+    "title": "Poor Things",
+    "author": "Alasdair Gray",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/poor-things.webp"
+  },
+  {
+    "title": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/demon-copperhead.webp"
+  },
+  {
+    "title": "Heaven and Earth Grocery Store",
+    "author": "James McBride",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/heaven-and-earth-grocery-store.webp"
+  },
+  {
+    "title": "The Stranger Times",
+    "author": "C.K. McDonnell",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/the-stranger-times.webp"
+  },
+  {
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/dungeon-crawler-carl.webp"
+  },
+  {
+    "title": "The Cold Millions",
+    "author": "Jess Walter",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/the-cold-millions.webp"
+  },
+  {
+    "title": "Tom Lake",
+    "author": "Ann Patchett",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/tom-lake.webp"
+  },
+  {
+    "title": "Wellness",
+    "author": "Nathan Hill",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/wellness.webp"
+  },
+  {
+    "title": "Deacon King Kong",
+    "author": "James McBride",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/deacon-king-kong.webp"
+  },
+  {
+    "title": "Eragorn",
+    "author": "Christopher Paolini",
+    "rating": 5,
+    "ISBN": "9781250273862",
+    "cover": "/assets/img/covers/eragorn.webp"
+  },
+  {
+    "title": "The Color of Water",
+    "author": "James McBride",
+    "rating": 4
+  },
+  {
+    "title": "The Mistletoe Murder",
+    "author": "Nita Prose",
+    "rating": 3.5
+  },
+  {
+    "title": "Shogun",
+    "author": "James Clavell",
+    "rating": 3.5
+  },
+  {
+    "title": "Judiasm's Ten Best Ideas",
+    "author": "Arthur Green",
+    "rating": 3
+  },
+  {
+    "title": "Graveyard Shift",
+    "author": "M.L. Rio",
+    "rating": 4
+  },
+  {
+    "title": "Six Scary Stories",
+    "author": "Stephen King",
+    "rating": 3
+  },
+  {
+    "title": "What Moves the Dead",
+    "author": "T. Kingfisher",
+    "rating": 3.5
+  },
+  {
+    "title": "The Witchstone",
+    "author": "Henry H. Neff",
+    "rating": 4
+  },
+  {
+    "title": "Blitz",
+    "author": "Daniel O'Malley",
+    "rating": 2.5
+  },
+  {
+    "title": "Stiletto",
+    "author": "Daniel O'Malley",
+    "rating": 4
+  },
+  {
+    "title": "Trespassing Across America",
+    "author": "Ken Ilgunas",
+    "rating": 4
+  },
+  {
+    "title": "The Rook",
+    "author": "Daniel O'Malley",
+    "rating": 4
+  },
+  {
+    "title": "They Both Die at the End",
+    "author": "Adam Silvera",
+    "rating": 3.5
+  },
+  {
+    "title": "Red Rabbit",
+    "author": "Alex Grecian",
+    "rating": 3.5
+  },
+  {
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "rating": 3
+  },
+  {
+    "title": "French Exit",
+    "author": "Patrick deWitt",
+    "rating": 4
+  },
+  {
+    "title": "Where The Body Was",
+    "author": "Ed Brubaker and Sean Phillips",
+    "rating": 4
+  },
+  {
+    "title": "The Lost Bookshop",
+    "author": "Evie Woods",
+    "rating": 3
+  },
+  {
+    "title": "Horse",
+    "author": "Geraldine Brooks",
+    "rating": 4
+  },
+  {
+    "title": "Flung Out of Space: The Indecent Adventures of Patricia Highsmith",
+    "author": "Grace Ellis",
+    "rating": 3.5
+  },
+  {
+    "title": "Night Fever",
+    "author": "Ed Brubaker",
+    "rating": 3.5
+  },
+  {
+    "title": "The Human Target, Volume 1",
+    "author": "Greg Smallwood",
+    "rating": 4
+  },
+  {
+    "title": "Stories from The Tenants Downstairs",
+    "author": "Sidik Fofana",
+    "rating": 4
+  },
+  {
+    "title": "Scattershot",
+    "author": "Bernie Taupin",
+    "rating": 3.5
+  },
+  {
+    "title": "Manhunt",
+    "author": "James L. Swanson",
+    "rating": 3.5
+  },
+  {
+    "title": "The Mystery Guest",
+    "author": "Nita Prose",
+    "rating": 4
+  },
+  {
+    "title": "Outlawed",
+    "author": "Anna North",
+    "rating": 3
+  },
+  {
+    "title": "The Invisible Hour",
+    "author": "Alice Hoffman",
+    "rating": 2.5
+  },
+  {
+    "title": "Everyone in My Family Has Killed Someone",
+    "author": "Benjamin Stevenson",
+    "rating": 4
+  },
+  {
+    "title": "The Wager",
+    "author": "David Grann",
+    "rating": 3.5
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "author": "Patricia Highsmith",
+    "rating": 4
+  },
+  {
+    "title": "In a Dark, Dark Wood",
+    "author": "Ruth Ware",
+    "rating": 4
+  },
+  {
+    "title": "Yellowface",
+    "author": "R.F. Kuang",
+    "rating": 4
+  },
+  {
+    "title": "The Long Flight Home",
+    "author": "Alan Hlad",
+    "rating": 4
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Lars Mytting",
+    "rating": 3
+  }
+]

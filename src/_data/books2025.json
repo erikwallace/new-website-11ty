@@ -6,12 +6,6 @@
     "cover": "/assets/img/covers/we-ride-upon-sticks.jpg"
   },
   {
-    "title": "Small Things Like These",
-    "author": "Claire Keegan",
-    "rating": 5,
-    "cover": "/assets/img/covers/small-things-like-these.jpg"
-  },
-  {
     "title": "James",
     "author": "Percival Everett",
     "rating": 5,
@@ -22,6 +16,12 @@
     "author": "Matt Dinniman",
     "rating": 5,
     "cover": "/assets/img/covers/carls-doomsday-scenario.jpg"
+  },
+  {
+    "title": "Where Did You Go Bernadette",
+    "author": "Maria Semple",
+    "rating": 5,
+    "cover": "/assets/img/covers/where-did-you-go-bernadette.jpg"
   },
   {
     "title": "The Unseen World",
@@ -58,6 +58,21 @@
     "author": "Lucy Foley",
     "rating": 5,
     "cover": "/assets/img/covers/the-midnight-feast.jpg"
+  },
+  {
+    "title": "Table for Two",
+    "author": "Amor Towles",
+    "rating": 4
+  },
+  {
+    "title": "The Golem of Brooklyn",
+    "author": "Adam Mansbach",
+    "rating": 4
+  },
+  {
+    "title": "Here All Along",
+    "author": "Sarah Hurwitz",
+    "rating": 4
   },
   {
     "title": "Intermezzo",
