@@ -1,0 +1,276 @@
+[
+  {
+    "title": "Potter's Field",
+    "author": "Mark Waid",
+    "rating": 5,
+    "cover": "/assets/img/covers/potters-field.webp"
+  },
+  {
+    "title": "Legends and Lattes",
+    "author": "Travis Baldree",
+    "rating": 5,
+    "cover": "/assets/img/covers/legends-and-lattes.webp"
+  },
+  {
+    "title": "The Last Folk Hero: The Life and Myth of Bo Jackson",
+    "author": "Jeff Pearlman",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-last-folk-hero.webp"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-seven-husbands-of-evelyn-hugo.webp"
+  },
+  {
+    "title": "Tracy Flick Can't Win",
+    "author": "Tom Perrotta",
+    "rating": 5,
+    "cover": "/assets/img/covers/tracy-flick-cant-win.webp"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "rating": 5,
+    "cover": "/assets/img/covers/all-the-light-we-cannot-see.webp"
+  },
+  {
+    "title": "My Best Friend's Exorcism",
+    "author": "Grady Hendrix",
+    "rating": 5,
+    "cover": "/assets/img/covers/my-best-friends-exorcism.webp"
+  },
+  {
+    "title": "Stone Blind",
+    "author": "Natalie Haynes",
+    "rating": 5,
+    "cover": "/assets/img/covers/stone-blind.webp"
+  },
+  {
+    "title": "The Last Devil to Die",
+    "author": "Richard Osman",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-last-devil-to-die.webp"
+  },
+  {
+    "title": "Alias Emma",
+    "author": "Ava Glass",
+    "rating": 4
+  },
+  {
+    "title": "Bookshops and Bonedust",
+    "author": "Travis Baldree",
+    "rating": 4
+  },
+  {
+    "title": "Sellout",
+    "author": "Dan Ozzi",
+    "rating": 4
+  },
+  {
+    "title": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "rating": 3
+  },
+  {
+    "title": "Hester",
+    "author": "Lico Albanese",
+    "rating": 4
+  },
+  {
+    "title": "Thistlefoot",
+    "author": "Gennarose Nethercott",
+    "rating": 4
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "rating": 3
+  },
+  {
+    "title": "The Devil's Storybooks",
+    "author": "Natalie Babbitt",
+    "rating": 4
+  },
+  {
+    "title": "13 Goblins",
+    "author": "Dorothy Gladys Spicer",
+    "rating": 4
+  },
+  {
+    "title": "Locke and Key: Welcome to Lovecraft",
+    "author": "Joe Hill",
+    "rating": 3
+  },
+  {
+    "title": "Horrorstör",
+    "author": "Grady Hendrix",
+    "rating": 4
+  },
+  {
+    "title": "Scary Stories to Tell in the Dark",
+    "author": "Alvin Schwartz",
+    "rating": 4
+  },
+  {
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "rating": 4
+  },
+  {
+    "title": "Stay True",
+    "author": "Hua Hsu",
+    "rating": 4
+  },
+  {
+    "title": "The Southern Book Club's Guide to Slaying Vampires",
+    "author": "Grady Hendrix",
+    "rating": 4
+  },
+  {
+    "title": "Dark Harvest",
+    "author": "Norman Partridge",
+    "rating": 3
+  },
+  {
+    "title": "The Grownup",
+    "author": "Gillian Flynn",
+    "rating": 3
+  },
+  {
+    "title": "Crook Manifesto",
+    "author": "Colson Whitehead",
+    "rating": 4
+  },
+  {
+    "title": "Night of the Living Dummy (Classic Goosebumps #1)",
+    "author": "R.L. Stine",
+    "rating": 3
+  },
+  {
+    "title": "Chew",
+    "author": "John Layman",
+    "rating": 4
+  },
+  {
+    "title": "A Wizard's Guide to Defensive Baking",
+    "author": "T. Kingfisher",
+    "rating": 4
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "rating": 4
+  },
+  {
+    "title": "The Queen of Dirt Island",
+    "author": "Donal Ryan",
+    "rating": 4
+  },
+  {
+    "title": "The Hunting Party",
+    "author": "Lucy Foley",
+    "rating": 4
+  },
+  {
+    "title": "Another Man's Moccasins",
+    "author": "Craig Johnson",
+    "rating": 4
+  },
+  {
+    "title": "Eat and Run, My Unlikely Journey to Ultramarathon Greatness",
+    "author": "Scott Jurek",
+    "rating": 4
+  },
+  {
+    "title": "The Elephant Vanishes",
+    "author": "Haruki Murakami",
+    "rating": 4
+  },
+  {
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "rating": 4
+  },
+  {
+    "title": "The Legends Begin",
+    "author": "Shane Hegarty",
+    "rating": 3
+  },
+  {
+    "title": "Let's Explore Diabetes with Owls",
+    "author": "David Sedaris",
+    "rating": 4
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "rating": 3
+  },
+  {
+    "title": "The Nineties",
+    "author": "Chuck Klosterman",
+    "rating": 4
+  },
+  {
+    "title": "Under an Outlaw Moon",
+    "author": "Dietrich Kalteis",
+    "rating": 4
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "rating": 4
+  },
+  {
+    "title": "Number One is Walking: My Life in the Movies and Other Diversions",
+    "author": "Steve Martin",
+    "rating": 3
+  },
+  {
+    "title": "Tress of the Emerald Sea",
+    "author": "Brandon Sanderson",
+    "rating": 4
+  },
+  {
+    "title": "All Systems Red",
+    "author": "Martha Wells",
+    "rating": 4
+  },
+  {
+    "title": "The Unexpected Mrs. Pollifax",
+    "author": "Dorothy Gilman",
+    "rating": 4
+  },
+  {
+    "title": "The Fifth Season",
+    "author": "N.K. Jemisin",
+    "rating": 4
+  },
+  {
+    "title": "A Good Girl's Guide to Murder",
+    "author": "Holly Jackson",
+    "rating": 4
+  },
+  {
+    "title": "Empire of the Summer Moon",
+    "author": "S.C. Gwynne",
+    "rating": 4
+  },
+  {
+    "title": "The Eigth Detective",
+    "author": "Alex Pavesi",
+    "rating": 3
+  },
+  {
+    "title": "Black Hammer, Vol. 1: Secret Origins",
+    "author": "Jeff Lemire",
+    "rating": 4
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "rating": 3
+  }
+]

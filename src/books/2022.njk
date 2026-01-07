@@ -1,21 +1,21 @@
 ---
-title: 2024
+title: 2022
 layout: 'base.njk'
-description: List of books I read in 2024.
+description: List of books I read in 2022.
 keywords: Erik Wallace, Books, Reading List, Book Recommendations
-permalink: /books/2024.html
+permalink: /books/2022.html
 ---
 
 <a class="breadcrumb" href="/books/">&larr; All Books</a>
 <h1>{{ title }}</h1>
-<h2 class="subtitle">Books Read: <span id="count-up">{{ books2024 | length }}</span></h2>
+<h2 class="subtitle">Books Read: <span id="count-up">{{ books2022 | length }}</span></h2>
 
 <div class="flow">
 	<div class="books-list flow">
 		{% set ratings = [5, 4.5, 4, 3.5, 3, 2.5, 2, 1.5, 1] %}
 		{% for rating in ratings %}
 			{% set hasBooks = false %}
-			{% for book in books2024 %}
+			{% for book in books2022 %}
 				{% if book.rating == rating %}
 					{% set hasBooks = true %}
 				{% endif %}
@@ -28,7 +28,7 @@ permalink: /books/2024.html
 					</span>
 				</h2>
 				<ul class="books favorites">
-				{% for book in books2024 %}
+				{% for book in books2022 %}
 					{% if book.rating == rating %}
 						<li class="book">
 							{% if book.cover %}
@@ -46,7 +46,7 @@ permalink: /books/2024.html
 </div>
 <script>
 	const countUpElement = document.getElementById('count-up');
-	const targetCount = {{ books2024 | length }};
+	const targetCount = {{ books2022 | length }};
 	const duration = 1000; // 1.25 seconds
 	const incrementTime = 30; // Update every 30ms
 	const steps = duration / incrementTime;
