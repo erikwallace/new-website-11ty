@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Becoming Superman",
+    "author": "J. Michael Straczynski",
+    "rating": 5,
+    "cover": "/assets/img/covers/becoming-superman.webp"
+  },
+  {
+    "title": "The Bullet That Missed",
+    "author": "Richard Osman",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-bullet-that-missed.webp"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-psychology-of-money.webp"
+  },
+  {
+    "title": "The Magician's Assistant",
+    "author": "Ann Patchett",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-magicians-assistant.webp"
+  },
+  {
+    "title": "Blankets",
+    "author": "Craig Thompson",
+    "rating": 5,
+    "cover": "/assets/img/covers/blankets.webp"
+  },
+  {
+    "title": "The Boys in the Boat",
+    "author": "Daniel James Brown",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-boys-in-the-boat.webp"
+  },
+  {
+    "title": "The Escapists",
+    "author": "Brian K. Vaughan",
+    "rating": 4
+  },
+  {
+    "title": "Superman: Earth One, Volume 3",
+    "author": "J. Michael Straczynski",
+    "rating": 4
+  },
+  {
+    "title": "The Stupidest Angel: A Heartwarming Tale of Christmas Terror",
+    "author": "Christopher Moore",
+    "rating": 4
+  },
+  {
+    "title": "The Remarkable Journey of Coyote Sunrise",
+    "author": "Dan Gemeinhart",
+    "rating": 4
+  },
+  {
+    "title": "The Sleeper and the Spindle",
+    "author": "Neil Gaiman",
+    "rating": 4
+  },
+  {
+    "title": "The Paris Apartment",
+    "author": "Lucy Foley",
+    "rating": 4
+  },
+  {
+    "title": "Hark! A Vagrant",
+    "author": "Kate Beaton",
+    "rating": 4
+  },
+  {
+    "title": "The Winter People",
+    "author": "Jennifer McMahon",
+    "rating": 4
+  },
+  {
+    "title": "Clockwork",
+    "author": "Philip Pullman",
+    "rating": 4
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "rating": 4
+  },
+  {
+    "title": "The Hellbound Heart",
+    "author": "Clive Barker",
+    "rating": 4
+  },
+  {
+    "title": "The Souvenir Museum",
+    "author": "Elizabeth McCracken",
+    "rating": 4
+  },
+  {
+    "title": "The Maid (Molly the Maid, #1)",
+    "author": "Nita Prose",
+    "rating": 4
+  },
+  {
+    "title": "The Library of the Dead",
+    "author": "T.L. Huchu",
+    "rating": 4
+  },
+  {
+    "title": "The Bazaar of Bad Dreams",
+    "author": "Stephen  King",
+    "rating": 4
+  },
+  {
+    "title": "Crying in H Mart",
+    "author": "Michelle Zauner",
+    "rating": 4
+  },
+  {
+    "title": "Pulp",
+    "author": "Ed Brubaker",
+    "rating": 4
+  },
+  {
+    "title": "Barbara the Slut and Other People",
+    "author": "Lauren Holmes",
+    "rating": 4
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "rating": 4
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "rating": 4
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "rating": 4
+  },
+  {
+    "title": "A Fatal Grace",
+    "author": "Louise Penny",
+    "rating": 4
+  },
+  {
+    "title": "Born a Crime: Stories from a South African Childhood",
+    "author": "Trevor Noah",
+    "rating": 4
+  },
+  {
+    "title": "Mrs. Frisby and the Rats of NIMH",
+    "author": "Robert C. O'Brien",
+    "rating": 4
+  },
+  {
+    "title": "Neverwhere (London Below, #1)",
+    "author": "Neil Gaiman",
+    "rating": 4
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "rating": 4
+  },
+  {
+    "title": "The Storyteller: Tales of Life and Music",
+    "author": "Dave Grohl",
+    "rating": 4
+  },
+  {
+    "title": "The Last Flight",
+    "author": "Julie   Clark",
+    "rating": 4
+  },
+  {
+    "title": "A Man With One of Those Faces",
+    "author": "Caimh McDonnell",
+    "rating": 4
+  },
+  {
+    "title": "Superman: Earth One, Volume 2",
+    "author": "J. Michael Straczynski",
+    "rating": 3
+  },
+  {
+    "title": "Superman: Earth One, Volume 1",
+    "author": "J. Michael Straczynski",
+    "rating": 3
+  },
+  {
+    "title": "Doctor Who: The Twelve Doctors of Christmas",
+    "author": "Jacqueline Rayner",
+    "rating": 3
+  },
+  {
+    "title": "Loki: Mistress Of Mischief",
+    "author": "J. Michael Straczynski",
+    "rating": 3
+  },
+  {
+    "title": "My Horizontal Life: A Collection of One-Night Stands",
+    "author": "Chelsea Handler",
+    "rating": 3
+  },
+  {
+    "title": "Interview with the Vampire",
+    "author": "Anne Rice",
+    "rating": 3
+  },
+  {
+    "title": "Nothing But Blackened Teeth",
+    "author": "Cassandra Khaw",
+    "rating": 3
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "rating": 3
+  },
+  {
+    "title": "The Old Woman with the Knife",
+    "author": "Gu Byeong-mo",
+    "rating": 3
+  },
+  {
+    "title": "The Dog Who Could Fly",
+    "author": "Damien Lewis",
+    "rating": 3
+  },
+  {
+    "title": "McCay",
+    "author": "Thierry Smolderen",
+    "rating": 3
+  },
+  {
+    "title": "My Sister, the Serial Killer",
+    "author": "Oyinkan Braithwaite",
+    "rating": 3
+  },
+  {
+    "title": "Fortunately, the Milk",
+    "author": "Neil Gaiman",
+    "rating": 3
+  },
+  {
+    "title": "You Can't Be Serious",
+    "author": "Kal Penn",
+    "rating": 3
+  },
+  {
+    "title": "The Cruelest Month",
+    "author": "Louise Penny",
+    "rating": 3
+  },
+  {
+    "title": "Rasco and the Rats of NIMH",
+    "author": "Jane Leslie Conly",
+    "rating": 3
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "rating": 3
+  },
+  {
+    "title": "Under the Dome",
+    "author": "Stephen King",
+    "rating": 3
+  },
+  {
+    "title": "Cloud Cuckoo Land",
+    "author": "Anthony Doerr",
+    "rating": 3
+  },
+  {
+    "title": "The Book of Magic",
+    "author": "Alice Hoffman",
+    "rating": 3
+  },
+  {
+    "title": "The Boy, the Mole, the Fox and the Horse",
+    "author": "Charlie Mackesy",
+    "rating": 2
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "rating": 2
+  }
+]
