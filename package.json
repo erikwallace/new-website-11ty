@@ -4,8 +4,8 @@
   "description": "Erik Wallace's personal website built with Eleventy",
   "main": "index.js",
   "scripts": {
-    "start": "npm start",
-    "build": "npm run build",
+    "start": "eleventy --serve",
+    "build": "eleventy",
     "images": "gulp images"
   },
   "keywords": [
