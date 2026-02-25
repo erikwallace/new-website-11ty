@@ -6,6 +6,54 @@
     "cover": "/assets/img/covers/ampd.webp"
   },
   {
+    "title": "The Wedding People",
+    "author": "Alison Espach",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-wedding-people.webp"
+  },
+  {
+    "title": "The Rachel Incident",
+    "author": "Caroline O'Donoghue",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-rachel-incident.webp"
+  },
+  {
+    "title": "The Lager Queen of Minnesota",
+    "author": "J. Ryan Stradal",
+    "rating": 5,
+    "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "rating": 4.5
+  },
+  {
+    "title": "A Marriage at Sea",
+    "author": "Sophie Elmhirst",
+    "rating": 4
+  },
+  {
+    "title": "Darth Maul Shadow Hunter",
+    "author": "Michael Reaves",
+    "rating": 4
+  },
+  {
+    "title": "Outlive",
+    "author": "Peter Attia",
+    "rating": 4
+  },
+  {
+    "title": "Growing Up Urkel",
+    "author": "Jaleel White",
+    "rating": 4
+  },
+  {
+    "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+    "author": "Patrick Radden Keefe",
+    "rating": 4
+  },
+  {
     "title": "Love You a Latke",
     "author": "Amanda Elliot",
     "rating": 4
