@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Erik Wallace's personal website built with Eleventy",
   "main": "index.js",
+  "usage": "Run 'npm run start' to start the development server (don't use 'eleventy' directly)",
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
