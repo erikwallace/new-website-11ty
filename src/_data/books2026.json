@@ -24,9 +24,19 @@
     "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
   },
   {
+    "title": "The Marlow Murder Club",
+    "author": "Robert Thorogood",
+    "rating": 4.5
+  },
+  {
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "A Murder for Miss Hortense",
+    "author": "Mel Pennant",
+    "rating": 4
   },
   {
     "title": "A Marriage at Sea",
@@ -57,5 +67,10 @@
     "title": "Love You a Latke",
     "author": "Amanda Elliot",
     "rating": 4
+  },
+  {
+    "title": "The Hunter",
+    "author": "Richard Stark",
+    "rating": 3
   }
 ]
