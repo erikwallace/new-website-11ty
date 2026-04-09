@@ -24,6 +24,11 @@
     "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
   },
   {
+    "title": "The Curse of Pietro Houdini",
+    "author": "Derek B. Miller",
+    "rating": 4.5
+  },
+  {
     "title": "The Marlow Murder Club",
     "author": "Robert Thorogood",
     "rating": 4.5
@@ -32,6 +37,11 @@
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "Mickey7",
+    "author": "Edward Ashton",
+    "rating": 4
   },
   {
     "title": "A Murder for Miss Hortense",
@@ -67,6 +77,11 @@
     "title": "Love You a Latke",
     "author": "Amanda Elliot",
     "rating": 4
+  },
+  {
+    "title": "The Desperado",
+    "author": "Clifton Adams",
+    "rating": 3
   },
   {
     "title": "The Hunter",
