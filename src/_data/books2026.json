@@ -1,5 +1,11 @@
 [
   {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "rating": 5,
+    "cover": "/assets/img/covers/project-hail-mary.webp"
+  },
+  {
     "title": "Amp'd",
     "author": "Ken Pisani",
     "rating": 5,
@@ -18,6 +24,12 @@
     "cover": "/assets/img/covers/the-rachel-incident.webp"
   },
   {
+    "title": "Margo's Got Money Troubles",
+    "author": "Rufi Thorpe",
+    "rating": 5,
+    "cover": "/assets/img/covers/margos-got-money-troubles.webp"
+  },
+  {
     "title": "The Lager Queen of Minnesota",
     "author": "J. Ryan Stradal",
     "rating": 5,
@@ -32,6 +44,11 @@
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "Dead Lions",
+    "author": "Mick Herron",
+    "rating": 4
   },
   {
     "title": "A Murder for Miss Hortense",
@@ -67,6 +84,11 @@
     "title": "Love You a Latke",
     "author": "Amanda Elliot",
     "rating": 4
+  },
+  {
+    "title": "Cowboys & East Indians",
+    "author": "Nina McConigley",
+    "rating": 3.5
   },
   {
     "title": "The Hunter",
