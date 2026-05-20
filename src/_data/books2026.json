@@ -1,5 +1,11 @@
 [
   {
+    "title": "The Boys in the Light",
+    "author": "Nina Willner",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-boys-in-the-light.webp"
+  },
+  {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
     "rating": 5,
@@ -34,6 +40,11 @@
     "author": "J. Ryan Stradal",
     "rating": 5,
     "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
+  },
+  {
+    "title": "The Retired Assassin's Guide to Country Gardening",
+    "author": "Naomi Kuttner",
+    "rating": 4.5
   },
   {
     "title": "The Marlow Murder Club",
