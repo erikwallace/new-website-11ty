@@ -47,6 +47,11 @@
     "rating": 4.5
   },
   {
+    "title": "The Curse of Pietro Houdini",
+    "author": "Derek B. Miller",
+    "rating": 4.5
+  },
+  {
     "title": "The Marlow Murder Club",
     "author": "Robert Thorogood",
     "rating": 4.5
@@ -59,6 +64,11 @@
   {
     "title": "Dead Lions",
     "author": "Mick Herron",
+    "rating": 4
+  },
+  {
+    "title": "Mickey7",
+    "author": "Edward Ashton",
     "rating": 4
   },
   {
@@ -100,6 +110,11 @@
     "title": "Cowboys & East Indians",
     "author": "Nina McConigley",
     "rating": 3.5
+  },
+  {
+    "title": "The Desperado",
+    "author": "Clifton Adams",
+    "rating": 3
   },
   {
     "title": "The Hunter",
