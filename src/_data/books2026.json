@@ -6,6 +6,12 @@
     "cover": "/assets/img/covers/the-boys-in-the-light.webp"
   },
   {
+    "title": "The Storied Life of A.J. Fikry",
+    "author": "Gabrielle Zevin",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-storied-life"
+  },
+  {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
     "rating": 5,
