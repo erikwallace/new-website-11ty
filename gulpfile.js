@@ -4,10 +4,21 @@ const through2 = require('through2');
 const path = require('path');
 const fs = require('fs');
 
+function shouldSkipImage(inputPath, outputPath) {
+  if (!fs.existsSync(outputPath)) {
+    return false;
+  }
+
+  const inputMtime = fs.statSync(inputPath).mtimeMs;
+  const outputMtime = fs.statSync(outputPath).mtimeMs;
+
+  return outputMtime >= inputMtime;
+}
+
 // Process images: resize to 600px wide and convert to webp
 function processImages() {
   return gulp
-    .src('src/assets/img/batch/*.{jpg,JPG,jpeg,JPEG,png,PNG}')
+    .src('src/assets/img/batch/*.{jpg,JPG,jpeg,JPEG,png,PNG,webp,WEBP,avif,AVIF}', { since: gulp.lastRun(processImages) })
     .pipe(
       through2.obj(function (file, _, cb) {
         if (file.isBuffer()) {
@@ -16,9 +27,9 @@ function processImages() {
             path.basename(file.path, path.extname(file.path)) + '.webp'
           );
 
-          // Check if output file already exists
-          if (fs.existsSync(outputPath)) {
-            console.log(`⊝ Skipped (already exists): ${path.basename(outputPath)}`);
+          // Skip when a processed image already exists and is newer than the source.
+          if (shouldSkipImage(file.path, outputPath)) {
+            console.log(`Skipped (up to date): ${path.basename(outputPath)}`);
             cb();
             return;
           }
