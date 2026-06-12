@@ -1,5 +1,11 @@
 [
   {
+    "title": "Buckeye",
+    "author": "Patrick Ryan",
+    "rating": 5,
+    "cover": "/assets/img/covers/buckeye.webp"
+  },
+  {
     "title": "The Boys in the Light",
     "author": "Nina Willner",
     "rating": 5,
@@ -66,6 +72,16 @@
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "The Unselected Journals of Emma M. Lion",
+    "author": "Beth Brower",
+    "rating": 4
+  },
+  {
+    "title": "Manhattan is My Beat",
+    "author": "Jeffrey Deaver",
+    "rating": 4
   },
   {
     "title": "Dead Lions",
