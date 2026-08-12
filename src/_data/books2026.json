@@ -1,5 +1,11 @@
 [
   {
+    "title": "Heart the Lover",
+    "author": "Lily King",
+    "rating": 5,
+    "cover": "/assets/img/covers/heart-the-lover.webp"
+  },
+  {
     "title": "Buckeye",
     "author": "Patrick Ryan",
     "rating": 5,
@@ -54,6 +60,31 @@
     "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
   },
   {
+    "title": "This Inevitable Ruin",
+    "author": "Matt Dinniman",
+    "rating": 4.5
+  },
+  {
+    "title": "Sunrise on the Reaping",
+    "author": "Suzanne Collins",
+    "rating": 4.5
+  },
+  {
+    "title": "Turtles All the Way Down",
+    "author": "John Green",
+    "rating": 4.5
+  },
+  {
+    "title": "Atmosphere",
+    "author": "Taylor Jenkins Reid",
+    "rating": 4.5
+  },
+  {
+    "title": "The Unselected Journals of Emma M. Lion Vol. 2",
+    "author": "Beth Brower",
+    "rating": 4.5
+  },
+  {
     "title": "The Retired Assassin's Guide to Country Gardening",
     "author": "Naomi Kuttner",
     "rating": 4.5
@@ -72,6 +103,26 @@
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "The Eye of the Bedlam Bride",
+    "author": "Matt Dinniman",
+    "rating": 4
+  },
+  {
+    "title": "Train Dreams",
+    "author": "Denis Johnson",
+    "rating": 4
+  },
+  {
+    "title": "The Final Score",
+    "author": "Don Winslow",
+    "rating": 4
+  },
+  {
+    "title": "Weyward",
+    "author": "Emilia Hart",
+    "rating": 4
   },
   {
     "title": "The Unselected Journals of Emma M. Lion",
@@ -127,6 +178,11 @@
     "title": "Love You a Latke",
     "author": "Amanda Elliot",
     "rating": 4
+  },
+  {
+    "title": "Supergirl Woman of Tomorrow",
+    "author": "Tom King, Bilquis Evely, Matheus Lopes",
+    "rating": 3.5
   },
   {
     "title": "Cowboys & East Indians",
