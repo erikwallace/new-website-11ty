@@ -1,5 +1,11 @@
 [
   {
+    "title": "North Woods",
+    "author": "Daniel Mason",
+    "rating": 5,
+    "cover": "/assets/img/covers/north-woods.webp"
+  },
+  {
     "title": "Heart the Lover",
     "author": "Lily King",
     "rating": 5,
