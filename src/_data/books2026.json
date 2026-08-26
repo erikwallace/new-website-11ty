@@ -1,5 +1,11 @@
 [
   {
+    "title": "Angels in the Moonlight",
+    "author": "Caimh McDonnell",
+    "rating": 5,
+    "cover": "/assets/img/covers/angels-in-the-moonlight.webp"
+  },
+  {
     "title": "North Woods",
     "author": "Daniel Mason",
     "rating": 5,
