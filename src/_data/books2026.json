@@ -1,5 +1,11 @@
 [
   {
+    "title": "The Correspondent",
+    "author": "Virginia Evans",
+    "rating": 5,
+    "cover": "/assets/img/covers/the-correspondent.webp"
+  },
+  {
     "title": "Angels in the Moonlight",
     "author": "Caimh McDonnell",
     "rating": 5,
@@ -72,6 +78,11 @@
     "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
   },
   {
+    "title": "The Magician of Tiger Castle",
+    "author": "Louis Sachar",
+    "rating": 4.5
+  },
+  {
     "title": "This Inevitable Ruin",
     "author": "Matt Dinniman",
     "rating": 4.5
@@ -115,6 +126,16 @@
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "Murder at Gulls Nest",
+    "author": "Jess Kidd",
+    "rating": 4
+  },
+  {
+    "title": "Greenlights",
+    "author": "Matthew McConaughey",
+    "rating": 4
   },
   {
     "title": "The Eye of the Bedlam Bride",
@@ -192,6 +213,11 @@
     "rating": 4
   },
   {
+    "title": "The Haar",
+    "author": "David Sodergren",
+    "rating": 3.5
+  },
+  {
     "title": "Supergirl Woman of Tomorrow",
     "author": "Tom King, Bilquis Evely, Matheus Lopes",
     "rating": 3.5
@@ -200,6 +226,11 @@
     "title": "Cowboys & East Indians",
     "author": "Nina McConigley",
     "rating": 3.5
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "rating": 3
   },
   {
     "title": "The Desperado",
