@@ -1,5 +1,11 @@
 [
   {
+    "title": "Rebecca",
+    "author": "Daphne Du Maurier",
+    "rating": 5,
+    "cover": "/assets/img/covers/rebecca.webp"
+  },
+  {
     "title": "The Correspondent",
     "author": "Virginia Evans",
     "rating": 5,
@@ -78,6 +84,16 @@
     "cover": "/assets/img/covers/lager-queen-of-minnesota.webp"
   },
   {
+    "title": "Monk and Robot",
+    "author": "Becky Chambers",
+    "rating": 4.5
+  },
+  {
+    "title": "The Sun Down Motel",
+    "author": "Simone St. James",
+    "rating": 4.5
+  },
+  {
     "title": "The Magician of Tiger Castle",
     "author": "Louis Sachar",
     "rating": 4.5
@@ -126,6 +142,21 @@
     "title": "Recursion",
     "author": "Blake Crouch",
     "rating": 4.5
+  },
+  {
+    "title": "Threshing Day",
+    "author": "Rebecca Yarros",
+    "rating": 4
+  },
+  {
+    "title": "This Cursed House",
+    "author": "Del Sandeen",
+    "rating": 4
+  },
+  {
+    "title": "Sometimes I Scare Myself",
+    "author": "Jeneva Rose",
+    "rating": 4
   },
   {
     "title": "Murder at Gulls Nest",
@@ -226,6 +257,11 @@
     "title": "Cowboys & East Indians",
     "author": "Nina McConigley",
     "rating": 3.5
+  },
+  {
+    "title": "Maggie's Grave",
+    "author": "David Sodergren",
+    "rating": 3
   },
   {
     "title": "Carrie",
